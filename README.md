@@ -89,7 +89,9 @@ sample response:
    Final charge:$4.48
    processResult:ProcessResult(status=Ok, message=Checkout Successful)}**
 
-Rest-API response :
+
+
+================   Rest-API response : ============================
 **{
 "toolCode": "LADW",
 "toolType": "Ladder",
